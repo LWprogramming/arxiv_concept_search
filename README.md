@@ -1,0 +1,3 @@
+# arxiv_concept_search
+
+i live coded this in about an hour using gpt-4 and was intending to use it as a way to explore arxiv papers matching a particular concept i want to learn more about, but unfortunately arxiv api is [broken](https://github.com/arXiv/arxiv-search/issues/292). technically i *could* try having gpt-4 extract things out from the html and get the info that way, instead of trying raw abstracts, but i don't want to deal with that so here's a half-finished thing. if it was more important that'd be my first idea for a workaround though
